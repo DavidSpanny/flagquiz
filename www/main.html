@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <title>Flagquiz</title>
+    <style>
+        .pruefen-btn,
+        .hinweis-btn {
+            width: 300px;
+            margin-bottom: 18px;
+        }
+
+        .abbrechen-btn {
+            width: 100px;
+            margin: 5px auto 30px;
+            border-radius: 5px;
+            padding: 5px;
+            font-size: 18px;
+            font-weight: 300;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .buttonContainer {
+            margin-top: 30px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="header-wrapper">
+        <div id="timer">
+            <img src="hourglass.svg" alt="">
+            <p class="timerTime">0:15</p>
+        </div>
+
+        <div id="flagContainer"></div>
+    
+        <div id="punkte">
+            <img src="clipboard.svg" alt="">
+            <p class="punkteAnzeige">0</p>
+        </div>
+    
+    </div>
+    
+<!------------------------------------------------------------------------------------------------------->
+
+
+    <input type="text" id="eingabe">
+
+    <div class="buttonContainer">
+
+        <button type="button" class="btn btn-success pruefen-btn">Prüfen</button>
+        <button type="button" class="btn btn-warning hinweis-btn">Hinweis</button>
+    </div>
+    <button type="button" class="btn btn-danger abbrechen-btn">Abbrechen</button>
+
+    <div id="hintSnackbar">Hinweistext</div>
+
+
+    <!-------------------------------------------------------------------------------------------------------->
+
+
+    <div class="modal-win">
+        <div class="overlay-win">
+            
+            <h1 id="headline-win">DU HAST GEWONNEN!</h1>
+            <button type="button" class="btn btn-success">Nochmal spielen</button>
+            <button type="button" class="btn btn-danger">Beenden</button>
+            <button type="button" class="btn btn-info">&#127942; Bestenliste &#127942;</button>
+
+
+
+        </div>
+    </div>
+
+    <div class="modal-lose">
+        <div class="overlay-lose">
+
+            <h1 id="headline-lose">LEIDER VERLOREN!</h1>
+            <button type="button" class="btn btn-success">Nochmal spielen</button>
+            <button type="button" class="btn btn-danger">Beenden</button>
+            <button type="button" class="btn btn-info">&#127942; Bestenliste &#127942;</button>
+
+
+
+        </div>
+    </div>
+
+
+
+    
+    <script src="app.js"></script>
+</body>
+
+</html>

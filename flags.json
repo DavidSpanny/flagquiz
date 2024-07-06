@@ -1,0 +1,1435 @@
+[
+    {
+        "id": 1,
+        "country": "afghanistan",
+        "image": "images/y01.png",
+        "hint": "Naher Osten, eines der gefährlichsten Länder",
+        "map": true
+    },
+    {
+        "id": 2,
+        "country": "ägypten",
+        "image": "images/m01.png",
+        "hint": "Nordafrika, bekannt für Pyramiden",
+        "map": true
+    },
+    {
+        "id": 3,
+        "country": "albanien",
+        "image": "images/x01.png",
+        "hint": "Europa, streitet sich mit Serbien um den Kosovo",
+        "map": true
+    },
+    {
+        "id": 4,
+        "country": "algerien",
+        "image": "images/m02.png",
+        "hint": "Nordafrika, Nachbarstaat von Tunesien und Marokko",
+        "map": true
+    },
+    {
+        "id": 5,
+        "country": "andorra",
+        "image": "images/x02.jpeg",
+        "hint": "Europa, Zwergstaat an der Grenze zu Spanien und Frankreich",
+        "map": false
+    },
+    {
+        "id": 6,
+        "country": "angola",
+        "image": "images/m03.jpeg",
+        "hint": "Südliches Afrika, liegt nördlich von Namibia",
+        "map": true
+    },
+    {
+        "id": 7,
+        "country": "antigua und barbuda",
+        "image": "images/c01.jpg",
+        "hint": "Karibik, liegt in der Nähe zu Puerto Rico und den britischen Überseegebieten",
+        "map": true
+    },
+    {
+        "id": 8,
+        "country": "äquatorialguinea",
+        "image": "images/m04.png",
+        "hint": "Zentralafria, kleines Land, zwischen Kamerun und Gabun eingeschlossen",
+        "map": true
+    },
+    {
+        "id": 9,
+        "country": "argentinien",
+        "image": "images/c02.jpg",
+        "hint": "Südamerika, Heimat von Fußballspieler Lionel Messi",
+        "map": true
+    },
+    {
+        "id": 10,
+        "country": "armenien",
+        "image": "images/y02.jpg",
+        "hint": "Westliches Asien, Nachbarstaaten sind Georgien, Aserbaidschan und die Türkei",
+        "map": true
+    },
+    {
+        "id": 11,
+        "country": "aserbaidschan",
+        "image": "images/y03.png",
+        "hint": "Westliches Asien, grenzt im Norden an Russland und im Westen an Armenien",
+        "map": true
+    },
+    {
+        "id": 12,
+        "country": "äthiopien",
+        "image": "images/m05.png",
+        "hint": "Ostafrika am Horn von Afrika, gilt als das ärmste Land der Erde",
+        "map": true
+    },
+    {
+        "id": 13,
+        "country": "australien",
+        "image": "images/q01.jpeg",
+        "hint": "Dieses Land ist ein eigener Kontinent",
+        "map": true
+    },
+    {
+        "id": 14,
+        "country": "bahamas",
+        "image": "images/c03.jpeg",
+        "hint": "Karibik, eine Insel die nahe von Kuba und den USA liegt",
+        "map": false
+    },
+    {
+        "id": 15,
+        "country": "bahrain",
+        "image": "images/y04.jpg",
+        "hint": "Naher Osten, ein kleines Land, Nachbarstaat von Saudi-Arabien",
+        "map": false
+    },
+    {
+        "id": 16,
+        "country": "bangladesch",
+        "image": "images/y05.jpeg",
+        "hint": "Mittelasien, bekannt für die typischen Tempel, von Indien umschlossen",
+        "map": true
+    },
+    {
+        "id": 17,
+        "country": "barbados",
+        "image": "images/c04.jpeg",
+        "hint": "Östliche Karibik, Staat des britischen Commonwealth",
+        "map": false
+    },
+    {
+        "id": 18,
+        "country": "belarus",
+        "image": "images/x03.jpg",
+        "hint": "Osteuropa, die frühere Bezeichnung lautete Weißrussland",
+        "map": true
+    },
+    {
+        "id": 19,
+        "country": "belgien",
+        "image": "images/x04.jpeg",
+        "hint": "Westeuropa, bekannt für Waffeln und ohne eine eigene Amtssprache",
+        "map": true
+    },
+    {
+        "id": 20,
+        "country": "belize",
+        "image": "images/c05.jpeg",
+        "hint": "Mittelamerika, bekannt für Dschungel, grenzt an das karibische Meer",
+        "map": true
+    },
+    {
+        "id": 21,
+        "country": "benin",
+        "image": "images/m06.jpeg",
+        "hint": "Westafrika, grenzt an Togo im Westen und an Nigeria im Osten",
+        "map": true
+    },
+    {
+        "id": 22,
+        "country": "bhutan",
+        "image": "images/y06.jpeg",
+        "hint": "Mittelasien, Nachbarstaaten sind China und Indien",
+        "map": false
+    },
+    {
+        "id": 23,
+        "country": "bolivien",
+        "image": "images/c06.png",
+        "hint": "Südamerika, zentral gelegenes Land mit La Paz als Hauptstadt",
+        "map": true
+    },
+    {
+        "id": 24,
+        "country": [
+            "bosnien",
+            "bosnien und herzegowina"
+        ],
+        "image": "images/x05.jpg",
+        "hint": "Europa, hat keinen Meerzugang und grenzt an Kroatien",
+        "map": true
+    },
+    {
+        "id": 25,
+        "country": [
+            "botswana",
+            "botsuana"
+        ],
+        "image": "images/m07.jpg",
+        "hint": "Zentral gelegens Land im südlichen Afrika, grenzt an Namibia, Südafrika und Simbabwe",
+        "map": true
+    },
+    {
+        "id": 26,
+        "country": "brasilien",
+        "image": "images/c07.jpg",
+        "hint": "Südamerika, weltbekannt als Fußballnation",
+        "map": true
+    },
+    {
+        "id": 27,
+        "country": "brunei",
+        "image": "images/y07.jpeg",
+        "hint": "Ozeanien, kleiner Staat von Indonesien umgeben und einem Prinz regiert",
+        "map": false
+    },
+    {
+        "id": 28,
+        "country": "bulgarien",
+        "image": "images/x06.jpeg",
+        "hint": "Südosteuropa, gilt als ärmstes Land Europas",
+        "map": true
+    },
+    {
+        "id": 29,
+        "country": "burkina faso",
+        "image": "images/m08.jpg",
+        "hint": "Westafrika, umgeben von Mali, dem Niger und der Elfenbeinküste",
+        "map": true
+    },
+    {
+        "id": 30,
+        "country": "burundi",
+        "image": "images/m09.jpeg",
+        "hint": "Südostafrika, grenzt im Norden an Ruanda",
+        "map": true
+    },
+    {
+        "id": 31,
+        "country": "chile",
+        "image": "images/c08.jpeg",
+        "hint": "Südamerika, ein flächenmäßig langes und sehr schmales Land",
+        "map": true
+    },
+    {
+        "id": 32,
+        "country": [
+            "china",
+            "volksrepublik china"
+        ],
+        "image": "images/y08.png",
+        "hint": "Asien, am zweitmeisten bevölkertste Land der Erde mit billigen Industriekosten",
+        "map": true
+    },
+    {
+        "id": 33,
+        "country": "cookinseln",
+        "image": "images/q02.png",
+        "hint": "Kleine Insel im Südpazifik, benannt nach dem Forscher James Cook",
+        "map": false
+    },
+    {
+        "id": 34,
+        "country": "costa rica",
+        "image": "images/c09.jpeg",
+        "hint": "Mittelamerika, Exportland für Bananen, grenzt an Nicaragua und Panama",
+        "map": true
+    },
+    {
+        "id": 35,
+        "country": "dänemark",
+        "image": "images/x07.jpg",
+        "hint": "Nordeuropa, das Königreich grenzt nur an Deutschland",
+        "map": true
+    },
+    {
+        "id": 36,
+        "country": "deutschland",
+        "image": "images/x08.jpeg",
+        "hint": "Europa, Heimat von BMW und Mercedes",
+        "map": true
+    },
+    {
+        "id": 37,
+        "country": "dominica",
+        "image": "images/c10.png",
+        "hint": "Inselstaat in der Karibik, bekannt für tropische Regenwälder",
+        "map": true
+    },
+    {
+        "id": 38,
+        "country": "dominikanische republik",
+        "image": "images/c11.jpeg",
+        "hint": "Kleiner Staat in der Karibik, grenzt im Osten an Haiti",
+        "map": true
+    },
+    {
+        "id": 39,
+        "country": "dschibuti",
+        "image": "images/m10.jpeg",
+        "hint": "Ein kleines Land am Horn von Afrika, grenzt im Westen an Äthiopien",
+        "map": false
+    },
+    {
+        "id": 40,
+        "country": "ecuador",
+        "image": "images/c12.jpg",
+        "hint": "Südamerika, Westküste. Liegt am Äquator und ist für den Export von Bananen bekannt",
+        "map": true
+    },
+    {
+        "id": 41,
+        "country": "el salvador",
+        "image": "images/c13.jpeg",
+        "hint": "Zentralamerika, bekannt für Strände und Gebirge. Grenzt an Honduras",
+        "map": true
+    },
+    {
+        "id": 42,
+        "country": "elfenbeinküste",
+        "image": "images/m11.jpeg",
+        "hint": "Westafrika, Hauptlieferant von Kakao",
+        "map": true
+    },
+    {
+        "id": 43,
+        "country": "eritrea",
+        "image": "images/m12.png",
+        "hint": "Staat am roten Meer, grenzt an Äthiopien und den Sudan",
+        "map": true
+    },
+    {
+        "id": 44,
+        "country": "estland",
+        "image": "images/x09.jpeg",
+        "hint": "Osteuropa, das nördlichste der baltischen Staaten",
+        "map": true
+    },
+    {
+        "id": 45,
+        "country": "eswatini",
+        "image": "images/m13.jpeg",
+        "hint": "Ein kleiner Binnenstaat in Südafrika. Der frühere Name lautete Swasiland",
+        "map": true
+    },
+    {
+        "id": 46,
+        "country": "fidschi",
+        "image": "images/q03.jpeg",
+        "hint": "Ein Inselstaat mit mehr als 300 Inseln im Südpazifik",
+        "map": false
+    },
+    {
+        "id": 47,
+        "country": "finnland",
+        "image": "images/x10.jpeg",
+        "hint": "Nordeuropa, bekannt für ihre typische Saunakultur",
+        "map": true
+    },
+    {
+        "id": 48,
+        "country": "frankreich",
+        "image": "images/x11.jpeg",
+        "hint": "Westeuropa, Nationalhymne ist die weltbekannte 'Marseillaise'",
+        "map": true
+    },
+    {
+        "id": 49,
+        "country": "gabun",
+        "image": "images/m14.jpeg",
+        "hint": "Zentralafrika, liegt an der Atlantikküste und grenzt im Osten an den Kongo",
+        "map": true
+    },
+    {
+        "id": 50,
+        "country": "gambia",
+        "image": "images/m15.png",
+        "hint": "Ein kleines Land in Zentralfrika, ein Binnenstaat von Senegal",
+        "map": true
+    },
+    {
+        "id": 51,
+        "country": "georgien",
+        "image": "images/y09.png",
+        "hint": "Westasien, die Schnittstelle zwischen Europa und Asien mit Russland als Nachbarn",
+        "map": true
+    },
+    {
+        "id": 52,
+        "country": "ghana",
+        "image": "images/m16.png",
+        "hint": "Westafrika, liegt östlich von der Elfenbeinküste, bekannt für die Artenvielfalt von Tieren",
+        "map": true
+    },
+    {
+        "id": 53,
+        "country": "grenada",
+        "image": "images/c14.jpg",
+        "hint": "Karibik, der südliche Nachbar der Insel ist die Insel Trinidad und Tobago",
+        "map": false
+    },
+    {
+        "id": 54,
+        "country": "griechenland",
+        "image": "images/x12.jpg",
+        "hint": "Südeuropa, Heimat des Feta",
+        "map": true
+    },
+    {
+        "id": 55,
+        "country": "guatemala",
+        "image": "images/c15.jpeg",
+        "hint": "Mittelamerika, grenzt im Norden an Mexiko",
+        "map": true
+    },
+    {
+        "id": 56,
+        "country": "guinea",
+        "image": "images/m17.png",
+        "hint": "Westafrika, grenzt an ein Land, das den Zusatz '-Bissau' trägt",
+        "map": true
+    },
+    {
+        "id": 57,
+        "country": "guinea-bissau",
+        "image": "images/m18.jpg",
+        "hint": "Westafrika, grenzt an ein ähnlich klingendes Land im Osten",
+        "map": true
+    },
+    {
+        "id": 58,
+        "country": "guyana",
+        "image": "images/c16.jpeg",
+        "hint": "Nördliches Land in Südamerika, grenzt an Venezuela und Suriname",
+        "map": true
+    },
+    {
+        "id": 59,
+        "country": "haiti",
+        "image": "images/c17.jpeg",
+        "hint": "Karibik, im östlichen Teil der Insel liegt die dominikanische Republik",
+        "map": false
+    },
+    {
+        "id": 60,
+        "country": "honduras",
+        "image": "images/c18.png",
+        "hint": "Zentralamerika an der karibischen Küste. Nördlich grenzt es an Nicaragua",
+        "map": true
+    },
+    {
+        "id": 61,
+        "country": "indien",
+        "image": "images/y10.jpeg",
+        "hint": "Südasien, das meist bevölkertste Land der Erde",
+        "map": true
+    },
+    {
+        "id": 62,
+        "country": "indonesien",
+        "image": "images/y11.png",
+        "hint": "Südostasien, bekannt für seine Vulkanvielfalt",
+        "map": true
+    },
+    {
+        "id": 63,
+        "country": "irak",
+        "image": "images/y12.jpeg",
+        "hint": "Naher Osten, in diesem Land fand der Krieg um Öl statt",
+        "map": true
+    },
+    {
+        "id": 64,
+        "country": "iran",
+        "image": "images/y13.jpg",
+        "hint": "Naher Osten, es ist eine islamische Republik und grenz an ein Land mit ähnlichem Namen",
+        "map": true
+    },
+    {
+        "id": 65,
+        "country": "irland",
+        "image": "images/x13.jpeg",
+        "hint": "Westeuropa, in dem Land wird jährlich der St. Patricks Day gefeiert",
+        "map": true
+    },
+    {
+        "id": 66,
+        "country": "island",
+        "image": "images/x14.jpeg",
+        "hint": "Nordwestlichstes Land Europas, berühmt für Geysire",
+        "map": true
+    },
+    {
+        "id": 67,
+        "country": "israel",
+        "image": "images/y14.jpeg",
+        "hint": "Naher Osten, die Hauptreligion ist das Judentum",
+        "map": true
+    },
+    {
+        "id": 68,
+        "country": "italien",
+        "image": "images/x15.jpeg",
+        "hint": "Südeuropa, das Land erinnert flächenmäßig an einen Stiefel",
+        "map": true
+    },
+    {
+        "id": 69,
+        "country": "jamaika",
+        "image": "images/c19.jpeg",
+        "hint": "Karibik, Heimat der Rastafari-Religion",
+        "map": true
+    },
+    {
+        "id": 70,
+        "country": "japan",
+        "image": "images/y15.jpeg",
+        "hint": "Ostasien, das Land der aufgehenden Sonne",
+        "map": true
+    },
+    {
+        "id": 71,
+        "country": "jemen",
+        "image": "images/y16.png",
+        "hint": "Naher Osten, südlichstes Land. Immer wieder wegen Bürgerkriegen im Gespräch",
+        "map": true
+    },
+    {
+        "id": 72,
+        "country": "jordanien",
+        "image": "images/y17.jpeg",
+        "hint": "Naher Osten, grenzt im Westen an Israel",
+        "map": true
+    },
+    {
+        "id": 73,
+        "country": "kambodscha",
+        "image": "images/y18.jpeg",
+        "hint": "Ein Land in Südostasien, das an Vietnam und Thailand grenzt",
+        "map": true
+    },
+    {
+        "id": 74,
+        "country": "kamerun",
+        "image": "images/m19.png",
+        "hint": "Zentralafrika, grenzt an Nigeria und den Tschad",
+        "map": true
+    },
+    {
+        "id": 75,
+        "country": "kanada",
+        "image": "images/c20.png",
+        "hint": "Nordamerika, bekannt für den Ahornsirup",
+        "map": true
+    },
+    {
+        "id": 76,
+        "country": "kap verde",
+        "image": "images/q04.jpeg",
+        "hint": "Ein kleiner Inselstaat westlich von dem afrikanischen Kontinent",
+        "map": false
+    },
+    {
+        "id": 77,
+        "country": "kasachstan",
+        "image": "images/y19.png",
+        "hint": "Asien, ehemalige Sowjetrepublik, grenzt im norden an Russland",
+        "map": true
+    },
+    {
+        "id": 78,
+        "country": "katar",
+        "image": "images/y20.jpeg",
+        "hint": "Das Land liegt auf einer Halbinsel und grenzt an Saudi-Arabien",
+        "map": false
+    },
+    {
+        "id": 79,
+        "country": "kenia",
+        "image": "images/m20.jpeg",
+        "hint": "Ostafrika, bekannt für Safaris und landestypischen Steppen",
+        "map": true
+    },
+    {
+        "id": 80,
+        "country": [
+            "kirgistan",
+            "kirgisistan"
+        ],
+        "image": "images/y21.jpeg",
+        "hint": "Zentralasien, grenzt an Kasachstan und China",
+        "map": true
+    },
+    {
+        "id": 81,
+        "country": "kiribati",
+        "image": "images/q05.png",
+        "hint": "Inselrepublik mitten im Pazifik",
+        "map": false
+    },
+    {
+        "id": 82,
+        "country": "kolumbien",
+        "image": "images/c21.jpeg",
+        "hint": "Südamerika, bekannt für den Kaffeeanbau",
+        "map": true
+    },
+    {
+        "id": 83,
+        "country": "komoren",
+        "image": "images/m21.jpeg",
+        "hint": "Ein Inselstaat zwischen Mosambik und Madagaskar",
+        "map": true
+    },
+    {
+        "id": 84,
+        "country": "demokratische republik kongo",
+        "image": "images/m22.png",
+        "hint": "Zentralafrika, ist eine demokratische Republik",
+        "map": true
+    },
+    {
+        "id": 85,
+        "country": [
+            "republik kongo",
+            "kongo"
+        ],
+        "image": "images/m23.png",
+        "hint": "Zentralafrika, grenzt an die demokratische Republik Kongo und Gabun im Westen",
+        "map": true
+    },
+    {
+        "id": 86,
+        "country": "kosovo",
+        "image": "images/x16.jpeg",
+        "hint": "Europa, um diesem nicht überall anerkannten Staat tobte in den 90er Jahren ein Krieg",
+        "map": false
+    },
+    {
+        "id": 87,
+        "country": "kroatien",
+        "image": "images/x17.jpeg",
+        "hint": "Ein beliebtes Urlaubsland in Südwesteuropa, grenzt an Bosnien und Herzegowina",
+        "map": true
+    },
+    {
+        "id": 88,
+        "country": "kuba",
+        "image": "images/c22.jpeg",
+        "hint": "Mittelamerika, bekannt für das Castro-Regime",
+        "map": true
+    },
+    {
+        "id": 89,
+        "country": "kuwait",
+        "image": "images/y22.jpeg",
+        "hint": "Naher Osten, arabisches Land am Persischen Golf",
+        "map": true
+    },
+    {
+        "id": 90,
+        "country": "laos",
+        "image": "images/y23.jpeg",
+        "hint": "Südostasien, grenzt im Süden an Thailand und im Norden an China",
+        "map": true
+    },
+    {
+        "id": 91,
+        "country": "lesotho",
+        "image": "images/m24.jpeg",
+        "hint": "Ein Königreich im südlichen Afrika, ein Binnenstaat von Südafrika",
+        "map": false
+    },
+    {
+        "id": 92,
+        "country": "lettland",
+        "image": "images/x18.jpeg",
+        "hint": "Osteuropa, das mittlere Land der baltischen Staaten",
+        "map": true
+    },
+    {
+        "id": 93,
+        "country": "libanon",
+        "image": "images/y24.jpeg",
+        "hint": "Naher Osten, das Land grenzt an Israel",
+        "map": true
+    },
+    {
+        "id": 94,
+        "country": "liberia",
+        "image": "images/c23.jpeg",
+        "hint": "Eine ehemaligen US-amerikanische Kolonie, grenzt an die Elfenbeinküste und Sierra Leone",
+        "map": true
+    },
+    {
+        "id": 95,
+        "country": "libyen",
+        "image": "images/m25.jpeg",
+        "hint": "Nordafrika, grenzt an Algerian und Ägypten",
+        "map": true
+    },
+    {
+        "id": 96,
+        "country": "liechtenstein",
+        "image": "images/x19.jpeg",
+        "hint": "Das Fürstentum in Europa gilt als Zwergstaat und grenzt an die Schweiz",
+        "map": false
+    },
+    {
+        "id": 97,
+        "country": "litauen",
+        "image": "images/x20.jpeg",
+        "hint": "Osteuropa, das südlichste der baltischen Staaten",
+        "map": true
+    },
+    {
+        "id": 98,
+        "country": "luxemburg",
+        "image": "images/x21.jpeg",
+        "hint": "Europa, ein Zwergstaat mit Deutschland, Frankreich und Belgien als Nachbarn ",
+        "map": false
+    },
+    {
+        "id": 99,
+        "country": "madagaskar",
+        "image": "images/m26.jpeg",
+        "hint": "Südliches Afrika, eine Insel östlich des Kontinents",
+        "map": true
+    },
+    {
+        "id": 100,
+        "country": "malawi",
+        "image": "images/m27.png",
+        "hint": "Ein zentral gelegener afrikanischer Binnenstaat mit Mosambik, Sambia und Tansania als Nachbarstaaten",
+        "map": true
+    },
+    {
+        "id": 101,
+        "country": "malaysia",
+        "image": "images/y25.png",
+        "hint": "Südostasien, südlich befindet sich eine Insel des Staates Singapur",
+        "map": true
+    },
+    {
+        "id": 102,
+        "country": "malediven",
+        "image": "images/y26.jpeg",
+        "hint": "Ein tropisches Land südlich von Indien und ein beliebtes Urlaubsziel",
+        "map": false
+    },
+    {
+        "id": 103,
+        "country": "mali",
+        "image": "images/m28.png",
+        "hint": "Ein großer Binnenstaat in Westafrika",
+        "map": true
+    },
+    {
+        "id": 104,
+        "country": "malta",
+        "image": "images/x22.jpeg",
+        "hint": "Südeuropa, eine kleine Insel südlich von Italien",
+        "map": false
+    },
+    {
+        "id": 105,
+        "country": "marokko",
+        "image": "images/m29.jpeg",
+        "hint": "Nordafrika, am nähesten liegt es zu Spanien",
+        "map": true
+    },
+    {
+        "id": 106,
+        "country": "marshallinseln",
+        "image": "images/q06.png",
+        "hint": "Ein Inselstaat in den mittleren Ozeanien. Weiter östlich befinden sich die föderierten Staaten von Mikronesien",
+        "map": false
+    },
+    {
+        "id": 107,
+        "country": "mauretanien",
+        "image": "images/m30.jpeg",
+        "hint": "Ein Staat in Westafrika, südlich von der Westsahara",
+        "map": true
+    },
+    {
+        "id": 108,
+        "country": "mauritius",
+        "image": "images/m31.jpeg",
+        "hint": "Inselstaat im Indischen Ozean, bekannt für Strände und Lagunan und östlich von Madagaskar",
+        "map": false
+    },
+    {
+        "id": 109,
+        "country": "mexiko",
+        "image": "images/c24.jpeg",
+        "hint": "Südamerika, bekannt für scharfes Essen und Erfinder der Nachos",
+        "map": true
+    },
+    {
+        "id": 110,
+        "country": "mikronesien",
+        "image": "images/q07.png",
+        "hint": "Föderierte Staaten von ..., Inselstaat im westlichen Pazifischen Ozean",
+        "map": false
+    },
+    {
+        "id": 111,
+        "country": [
+            "moldawien",
+            "moldau"
+        ],
+        "image": "images/x23.jpeg",
+        "hint": "Osteuropa, grenzt an Rumänien",
+        "map": true
+    },
+    {
+        "id": 112,
+        "country": "monaco",
+        "image": "images/x24.png",
+        "hint": "Zwergstaat in Südwesteuropa, in dem Land wird der kniffligste Formel-1 Große Preis abgehalten",
+        "map": false
+    },
+    {
+        "id": 113,
+        "country": "mongolei",
+        "image": "images/y27.jpeg",
+        "hint": "Ein großes Land in Zentralasien, grenzt an China und Russland",
+        "map": true
+    },
+    {
+        "id": 114,
+        "country": "montenegro",
+        "image": "images/x25.jpg",
+        "hint": "Osteuropa, bedeutet übersetzt: 'schwarzer Berg'",
+        "map": true
+    },
+    {
+        "id": 115,
+        "country": "mosambik",
+        "image": "images/m32.png",
+        "hint": "Ein Land im südlichen Afrika an der Küste von Indischen Ozean",
+        "map": true
+    },
+    {
+        "id": 116,
+        "country": "myanmar",
+        "image": "images/y28.jpeg",
+        "hint": "Südostasien, früher 'Burma' genannt",
+        "map": true
+    },
+    {
+        "id": 117,
+        "country": "namibia",
+        "image": "images/m33.jpg",
+        "hint": "Südwestafrika, grenzt an Botsuana und Südafrika",
+        "map": true
+    },
+    {
+        "id": 118,
+        "country": "nauru",
+        "image": "images/q08.jpeg",
+        "hint": "Der drittkleinste Inselstaat im Pazifischen Ozean. In der Nähe liegen die Marshallinseln und die Salomonen",
+        "map": false
+    },
+    {
+        "id": 119,
+        "country": "nepal",
+        "image": "images/y29.jpg",
+        "hint": "Zentralasien, dort steht der Mount Everest",
+        "map": true
+    },
+    {
+        "id": 120,
+        "country": "neuseeland",
+        "image": "images/q09.jpeg",
+        "hint": "Ozeanien, östlich des Kontinents Australien",
+        "map": true
+    },
+    {
+        "id": 121,
+        "country": "nicaragua",
+        "image": "images/c25.jpg",
+        "hint": "Mittelamerika, zwischen dem Pazifik und dem Karibischen Meer",
+        "map": true
+    },
+    {
+        "id": 122,
+        "country": "niederlande",
+        "image": "images/x26.jpeg",
+        "hint": "Westeuropa, bekannt für eine ausgeprägte Fahrradkultur und Wasserstraßen",
+        "map": true
+    },
+    {
+        "id": 123,
+        "country": "niger",
+        "image": "images/m34.jpeg",
+        "hint": "Ein zentralafrikanischer Binnenstaat umgeben von Mali, Nigeria und dem Tschad",
+        "map": true
+    },
+    {
+        "id": 124,
+        "country": "nigeria",
+        "image": "images/m35.jpeg",
+        "hint": "Westafrika am Gold von Guinea und bekannt für Wildtierreservate",
+        "map": true
+    },
+    {
+        "id": 125,
+        "country": "nordkorea",
+        "image": "images/y30.png",
+        "hint": "Südasien, das verschlossenste Land der Welt von einem Diktator regiert",
+        "map": true
+    },
+    {
+        "id": 126,
+        "country": "nordmazedonien",
+        "image": "images/x27.jpg",
+        "hint": "Ein osteuropäischer Binnenstaat umgeben von Albanien, Bulgarien und Griechenland",
+        "map": true
+    },
+    {
+        "id": 127,
+        "country": "norwegen",
+        "image": "images/x28.jpeg",
+        "hint": "Nordeuropa, das westlichste der skandinavischen Länder",
+        "map": true
+    },
+    {
+        "id": 128,
+        "country": "oman",
+        "image": "images/y31.jpg",
+        "hint": "Liegt auf der arabischen Halbinsel und grenzt an den Jemen und Saudi-Arabien",
+        "map": true
+    },
+    {
+        "id": 129,
+        "country": "österreich",
+        "image": "images/x29.jpeg",
+        "hint": "Zentraleuropa, in der Hauptstadt findet das Neujahrskonzert statt",
+        "map": true
+    },
+    {
+        "id": 130,
+        "country": "osttimor",
+        "image": "images/y32.jpeg",
+        "hint": "Südostasien, ein Land umgeben von Indonesien, Australien und Papua-Neuguinea",
+        "map": true
+    },
+    {
+        "id": 131,
+        "country": "pakistan",
+        "image": "images/y33.jpeg",
+        "hint": "Staat in Südasien, grenzt im Westen an Iran und Afghanistan",
+        "map": true
+    },
+    {
+        "id": 132,
+        "country": "palästina",
+        "image": "images/y34.jpeg",
+        "hint": "Naher Osten, das Land mit dem berühmten Gazastreifen",
+        "map": false
+    },
+    {
+        "id": 133,
+        "country": "palau",
+        "image": "images/q10.jpeg",
+        "hint": "Eine Inselgruppe im wetlichen Pafizik und Teil von den föderierten Staaten von Mikronesien",
+        "map": false
+    },
+    {
+        "id": 134,
+        "country": "panama",
+        "image": "images/c26.jpeg",
+        "hint": "Südlichstes Land von Mittelamerika und Nachbar von Kolumbien",
+        "map": true
+    },
+    {
+        "id": 135,
+        "country": "papua-neuguinea",
+        "image": "images/q11.jpeg",
+        "hint": "Eine große Insel im südwestlichen Pazifik, in der Nähe befinden sich die Salomonen und Australien",
+        "map": true
+    },
+    {
+        "id": 136,
+        "country": "paraguay",
+        "image": "images/c27.jpeg",
+        "hint": "Zentrales Südamerika, Nachbarstaaten sind Argentinien und Brasilien",
+        "map": true
+    },
+    {
+        "id": 137,
+        "country": "peru",
+        "image": "images/c28.jpeg",
+        "hint": "Westliches Südamerika, bekannt für die Kultur der Maya",
+        "map": true
+    },
+    {
+        "id": 138,
+        "country": "philippinen",
+        "image": "images/y35.jpeg",
+        "hint": "Ein Land in Südostasien mit mehr als 7000 Inseln und südöstlich von China",
+        "map": true
+    },
+    {
+        "id": 139,
+        "country": "polen",
+        "image": "images/x30.jpeg",
+        "hint": "Zentraleuropa, grenzt an Deutschland und an das baltische Meer im Norden",
+        "map": true
+    },
+    {
+        "id": 140,
+        "country": "portugal",
+        "image": "images/x31.jpg",
+        "hint": "Südwesteuropa, einziges Nachbarland ist Spanien",
+        "map": true
+    },
+    {
+        "id": 141,
+        "country": "ruanda",
+        "image": "images/m36.png",
+        "hint": "Ostafrika, Binnenstaat, nördlicher Nachbar von Burundi",
+        "map": true
+    },
+    {
+        "id": 142,
+        "country": "rumänien",
+        "image": "images/x32.jpeg",
+        "hint": "Staat in Osteuropa, bekannt für die Region Transsilvanen",
+        "map": true
+    },
+    {
+        "id": 143,
+        "country": "russland",
+        "image": "images/x33.jpeg",
+        "hint": "Asien, das größte Land der Welt",
+        "map": true
+    },
+    {
+        "id": 144,
+        "country": "salomonen",
+        "image": "images/q12.jpeg",
+        "hint": "Inselstaat im Südpazifik, westlich liegt Papua-Neuguinea und südlich Neukaledonien",
+        "map": false
+    },
+    {
+        "id": 145,
+        "country": "sambia",
+        "image": "images/m37.png",
+        "hint": "Südlicher afrikanischer Binnenstaat und Nachbar von Angola und der demokratischen Republik Kongo",
+        "map": true
+    },
+    {
+        "id": 146,
+        "country": "samoa",
+        "image": "images/q13.png",
+        "hint": "Ein Land in Polynesien, umgeben von Fidschi und Tonga",
+        "map": false
+    },
+    {
+        "id": 147,
+        "country": "san marino",
+        "image": "images/x34.jpeg",
+        "hint": "Südeuropa, Binnenstaat in Italien",
+        "map": false
+    },
+    {
+        "id": 148,
+        "country": "sao tome und principe",
+        "image": "images/m38.png",
+        "hint": "Afrikanischer Inselstaat in Äquatornähe und westlich von Gabun",
+        "map": true
+    },
+    {
+        "id": 149,
+        "country": "saudi-arabien",
+        "image": "images/y36.jpeg",
+        "hint": "Wüstenstaat, das flächenmäßig größte Land im Nahen Osten",
+        "map": true
+    },
+    {
+        "id": 150,
+        "country": "schweden",
+        "image": "images/x35.jpeg",
+        "hint": "Nordeuropa, das mittlere Land der skandinavischen Länder",
+        "map": true
+    },
+    {
+        "id": 151,
+        "country": "schweiz",
+        "image": "images/x36.jpg",
+        "hint": "Binnenstaat in Zentraleuropa mit 4 Amtssprachen",
+        "map": true
+    },
+    {
+        "id": 152,
+        "country": "senegal",
+        "image": "images/m39.jpeg",
+        "hint": "Westafrika, grenzt im Norden an Mauretanien und hat den Staat Gambia eingeschlossen",
+        "map": true
+    },
+    {
+        "id": 153,
+        "country": "serbien",
+        "image": "images/x37.jpeg",
+        "hint": "Osteuropa, liegt zwischen Rumänien, Bosnien und dem nicht überall anerkannten Kosovo",
+        "map": true
+    },
+    {
+        "id": 154,
+        "country": "seychellen",
+        "image": "images/m40.png",
+        "hint": "Inselstaat östlich von Somalia und dem afrikanischen Kontinent",
+        "map": false
+    },
+    {
+        "id": 155,
+        "country": "sierra leone",
+        "image": "images/m41.png",
+        "hint": "Staat in Westafrika und grenzt an Guinea und Liberia",
+        "map": true
+    },
+    {
+        "id": 156,
+        "country": "simbabwe",
+        "image": "images/m42.jpeg",
+        "hint": "Binnenland im Süden von Afrika, Nachbarstaaten sind Butsuana und Mosambik",
+        "map": true
+    },
+    {
+        "id": 157,
+        "country": "singapur",
+        "image": "images/y37.png",
+        "hint": "Stadtstaat in Südostasien und nördlicher Nachbar von Malaysia",
+        "map": true
+    },
+    {
+        "id": 158,
+        "country": "slowakei",
+        "image": "images/x38.png",
+        "hint": "Die Hauptstadt liegt etwa 20 Kilometer von Wien",
+        "map": true
+    },
+    {
+        "id": 159,
+        "country": "slowenien",
+        "image": "images/x39.jpeg",
+        "hint": "Europa, grenzt an Österreich im Norden",
+        "map": true
+    },
+    {
+        "id": 160,
+        "country": "somalia",
+        "image": "images/m43.png",
+        "hint": "Liegt am Horn von Afrika, öfters Aufsehen wegen Piraterie erregt",
+        "map": true
+    },
+    {
+        "id": 161,
+        "country": "spanien",
+        "image": "images/x40.jpg",
+        "hint": "Ein Königreich in süden Europas, mit 2 sehr bekannten Fußballclubs",
+        "map": true
+    },
+    {
+        "id": 162,
+        "country": "sri lanka",
+        "image": "images/y38.jpeg",
+        "hint": "Südasien, direkter Nachbar ist Indien",
+        "map": true
+    },
+    {
+        "id": 163,
+        "country": "st. kitts und nevis",
+        "image": "images/c29.jpeg",
+        "hint": "Inselstaat in der östlichen Karibik, westlich befinden sich die amerikanischen Jungferninseln",
+        "map": false
+    },
+    {
+        "id": 164,
+        "country": "st. lucia",
+        "image": "images/c30.jpeg",
+        "hint": "Inselstaat in der östlichen Karibik, zwischen Martinique und Barbados",
+        "map": false
+    },
+    {
+        "id": 165,
+        "country": "st. vincent und die grenadinen",
+        "image": "images/c31.jpg",
+        "hint": "Inselstaat in der östlichen Karibik, zwischen St. Lucia und Barbados",
+        "map": false
+    },
+    {
+        "id": 166,
+        "country": "südafrika",
+        "image": "images/m44.jpeg",
+        "hint": "Der südlichste Staat von Afrika",
+        "map": true
+    },
+    {
+        "id": 167,
+        "country": "südkorea",
+        "image": "images/y39.png",
+        "hint": "Nördlicher Nachbar des verschlossensten Land der Erde",
+        "map": true
+    },
+    {
+        "id": 168,
+        "country": "sudan",
+        "image": "images/m45.jpg",
+        "hint": "Staat im nordöstlichen Afrika, grenzt im Norden an Ägypten und im westen an den Tschad",
+        "map": true
+    },
+    {
+        "id": 169,
+        "country": "südsudan",
+        "image": "images/m46.png",
+        "hint": "Südliches Land in Ostafrika, grenzt im Norden an den Sudan",
+        "map": true
+    },
+    {
+        "id": 170,
+        "country": "suriname",
+        "image": "images/c34.jpeg",
+        "hint": "Ein kleiner Staat an der Nordküste Südamerikas, liegt zwischen Guyana und Französisch-Guyana",
+        "map": true
+    },
+    {
+        "id": 171,
+        "country": "syrien",
+        "image": "images/y40.jpeg",
+        "hint": "Naher Osten, hier regierte eine sehr gefährliche Terroristengruppe",
+        "map": true
+    },
+    {
+        "id": 172,
+        "country": "tadschikistan",
+        "image": "images/y41.jpeg",
+        "hint": "Ehemalige Sowjetrepublik zwischen Usebakistan und China",
+        "map": true
+    },
+    {
+        "id": 173,
+        "country": [
+            "taiwan",
+            "republik china"
+        ],
+        "image": "images/y42.png",
+        "hint": "Inselstaat östlich von China mit modernen Städten und antiken Tempeln",
+        "map": true
+    },
+    {
+        "id": 174,
+        "country": "tansania",
+        "image": "images/m47.png",
+        "hint": "Ostafrika, Nachbarn sind Kenia und Mosambik",
+        "map": true
+    },
+    {
+        "id": 175,
+        "country": "thailand",
+        "image": "images/y43.jpeg",
+        "hint": "Königreich in Südostasien, beliebtes Urlaubsziel",
+        "map": true
+    },
+    {
+        "id": 176,
+        "country": "togo",
+        "image": "images/m48.jpeg",
+        "hint": "Schmales Land am Golf von Guinea zwischen Ghana und Benin",
+        "map": true
+    },
+    {
+        "id": 177,
+        "country": "tonga",
+        "image": "images/q14.png",
+        "hint": "Inselstaat und Königreich im Südpazifik. In der Nähe liegen Fidschi und die Cookinseln",
+        "map": false
+    },
+    {
+        "id": 178,
+        "country": "trinidad und tobago",
+        "image": "images/c33.jpeg",
+        "hint": "Eine Inselgruppe mit Doppelnamen, nördlich von Venezuela",
+        "map": true
+    },
+    {
+        "id": 179,
+        "country": "tschad",
+        "image": "images/m49.jpeg",
+        "hint": "Binnenstaat in Zentralafrika, umgeben vom Niger, Sudan und Libyen",
+        "map": true
+    },
+    {
+        "id": 180,
+        "country": [
+            "tschechien",
+            "tschechische republik"
+        ],
+        "image": "images/x41.png",
+        "hint": "Zentraleuropa, ehemaliges Land der Tschechoslowakei",
+        "map": true
+    },
+    {
+        "id": 181,
+        "country": "tunesien",
+        "image": "images/m50.png",
+        "hint": "Nordafrika, grenzt an Algerian und Libyen",
+        "map": true
+    },
+    {
+        "id": 182,
+        "country": "türkei",
+        "image": "images/x42.png",
+        "hint": "Ein Land, das sich großteils in Asien befindet und die Hauptstadt von Asien und Europa trennt",
+        "map": true
+    },
+    {
+        "id": 183,
+        "country": "turkmenistan",
+        "image": "images/y44.jpg",
+        "hint": "Zentralasien am Kaspischen Meer, Nachbar von Usbekistan , Iran und Afghanistan",
+        "map": true
+    },
+    {
+        "id": 184,
+        "country": "tuvalu",
+        "image": "images/q15.png",
+        "hint": "Inselstaat im Pazifischen Ozean, südlich sind Vanuatu und Fidschi",
+        "map": false
+    },
+    {
+        "id": 185,
+        "country": "uganda",
+        "image": "images/m51.jpeg",
+        "hint": "Ostafrikanisches Binnenland zwischen Kenia und der demokratischen Repubik Kongo",
+        "map": true
+    },
+    {
+        "id": 186,
+        "country": "ukraine",
+        "image": "images/x43.jpeg",
+        "hint": "Großes Land in Osteuropa, bekannt für die Ferienregion Odessa",
+        "map": true
+    },
+    {
+        "id": 187,
+        "country": "ungarn",
+        "image": "images/x44.jpeg",
+        "hint": "Nachbarland von Österreich und des ehemaligen k.u.k. Königreichs",
+        "map": true
+    },
+    {
+        "id": 188,
+        "country": "uruguay",
+        "image": "images/c34.jpeg",
+        "hint": "Südamerika, Nachbarn sind Argentinien und Brasilien",
+        "map": true
+    },
+    {
+        "id": 189,
+        "country": "usbekistan",
+        "image": "images/y45.jpeg",
+        "hint": "Ehemalige Sowjetrepublik und Nachbar von Kasachstan sowie Turkmenistan",
+        "map": true
+    },
+    {
+        "id": 190,
+        "country": "vanuatu",
+        "image": "images/q16.png",
+        "hint": "Inselstaat im Südpazifik, südlich liegt Neukaledonien",
+        "map": false
+    },
+    {
+        "id": 191,
+        "country": "vatikanstadt",
+        "image": "images/x45.jpeg",
+        "hint": "Südeuropa, der kleinste Staat der Erde",
+        "map": false
+    },
+    {
+        "id": 192,
+        "country": "venezuela",
+        "image": "images/c35.jpg",
+        "hint": "Liegt an der Nordküste Südamerikas und grenzt an Kolumbien und Brasilien",
+        "map": true
+    },
+    {
+        "id": 193,
+        "country": [
+            "vereinigte arabische emirate",
+            "vae"
+        ],
+        "image": "images/y46.jpeg",
+        "hint": "Arabische Halbinsel, die bekannteste Stadt ist Dubai",
+        "map": true
+    },
+    {
+        "id": 194,
+        "country": "vereinigtes königreich",
+        "image": "images/x46.jpeg",
+        "hint": "Westeuropa, das bekannteste Königreich Europas",
+        "map": true
+    },
+    {
+        "id": 195,
+        "country": [
+            "usa",
+            "vereinigte staaten von amerika"
+        ],
+        "image": "images/c36.jpeg",
+        "hint": "Nordamerika, eine führende Weltmacht",
+        "map": true
+    },
+    {
+        "id": 196,
+        "country": "vietnam",
+        "image": "images/y47.jpeg",
+        "hint": "Ein südöstliches asiatisches Land am Südchinesischen Meer, grenzt an Kambodscha und Laos",
+        "map": true
+    },
+    {
+        "id": 197,
+        "country": "zentralafrikanische republik",
+        "image": "images/m52.png",
+        "hint": "Zentralafrika, das zentralste Land im afrikanischen Kontinent. Hat einen dazu passenden Namen",
+        "map": true
+    },
+    {
+        "id": 198,
+        "country": "zypern",
+        "image": "images/x47.jpg",
+        "hint": "Eine Insel in Südeuropa, sowohl auf griechischem, als auch auf türkischem Hoheitsgebiet",
+        "map": true
+    },
+    {
+        "id": 199,
+        "country": [
+            "vereinte nationen",
+            "uno"
+        ],
+        "image": "images/z11.jpeg",
+        "hint": "Eine Organisation, zwischenstaatlicher Zusammenschluss von mehr als 190 Staaten. Der dritte Sitz befindet sich in Wien",
+        "map": false
+    },
+    {
+        "id": 200,
+        "country": "nato",
+        "image": "images/z66.png",
+        "hint": "Ein Militärbündnis, der in den USA hervorgegangen ist",
+        "map": false
+    }
+]

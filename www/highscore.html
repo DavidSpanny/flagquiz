@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <title>Highscore</title>
+    <style>
+        #table-container {
+            display: grid;
+            place-items: center;
+            margin-top: 20px;
+        }
+        .abbrechen-btn {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="table-container">
+    <h1 id="highscore-title">Bestenliste</h1>
+    <table id="highscoreTable">
+        <thead>
+            <tr>
+                <th>Datum / Uhrzeit</th>
+                <th>Username</th>
+                <th>Punkte</th>
+            </tr>
+        </thead>
+        <tbody>
+
+        </tbody>
+    </table>
+    <button type="button" class="btn btn-danger abbrechen-btn">Zurück zum Hauptmenü</button>
+</div>
+
+    <script>
+
+        const createNewRow = (datum, user, punkte) => {
+            const row = document.createElement('tr')
+
+            const datumZelle = document.createElement('td')
+            datumZelle.textContent = datum
+            row.appendChild(datumZelle)
+
+            const userZelle = document.createElement('td')
+            userZelle.textContent = user
+            row.appendChild(userZelle)
+
+            const punkteZelle = document.createElement('td')
+            punkteZelle.textContent = punkte
+            row.appendChild(punkteZelle)
+
+            return row
+        }
+
+        fetch('/highscoreJSON')
+            .then(response => response.json())
+            .then(data => {
+                const highscoreTable = document.querySelector('#highscoreTable')
+                const tbody = highscoreTable.querySelector('tbody')
+
+                data.forEach(item => {
+                    const row = createNewRow (item.date, item.user, item.points)
+                    tbody.appendChild(row)
+                })
+            })
+            .catch(err => {
+                console.log('Fehler', err)
+            })
+
+            document.querySelector('.abbrechen-btn').addEventListener('click', () => {
+                location.href = '/start'
+            })
+
+    </script>
+
+
+
+</body>
+</html>

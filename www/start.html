@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <title>Flagquiz</title>
+
+    <style>
+        p {
+            font-size: 24px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            line-height: 3rem;
+            text-align: justify;
+            word-wrap: break-word;
+            font-variant: small-caps;
+        }
+    </style>
+
+</head>
+
+<body>
+    <div id="welcomeContainer">
+        <h1 id="headline">Flaggen-Quiz</h1>
+    </div>
+    <div class="buttonContainer">
+
+        <input type="text" id="username" placeholder="Bitte Benutzernamen eintragen">
+        <button type="button" id="spielStarten" class="btn btn-success">Classic Game</button>
+        <button type="button" id="mapgame" class="btn btn-success">Map Game</button>
+        <button type="button" id="openAnleitung" class="btn btn-warning">Spielanleitung</button>
+        <button type="button" id="bestenliste" class="btn btn-info">Bestenliste</button>
+
+    </div>
+
+    <div id="anleitung" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h1 style="text-align: center; font-weight: 900; color: darkred; text-decoration: underline; font-size: 3rem; margin-bottom: 30px;">Spielanleitung</h1>
+
+            <p>Willkommen zum Quiz über die Nationalflaggen der Welt mit zwei Spielmodi. Bitte trage zuerst einen beliebigen Usernamen ein. <br>
+            Das erste Spiel, das <mark style="background-color: darkgreen; color: silver; border-radius: 15px;">Classic Game</mark> ist die klassische Variante des Quizes. Dabei werden
+            zufällig Flaggen aus aller Welt angezeigt und die richtige Lösung muss dann in das
+            Eingabefeld eingetragen werden. Wenn du dir deiner Antwort sicher bist, klickst du entweder auf "Prüfen"
+            oder drückst deine Enter-Taste. Wenn du richtig errätst erhälst du 2 Punkte, wenn du innerhalb von 10 Sekunden antwortest
+            wirst du sogar mit <strong>5</strong> Punkten belohnt. Doch vorsicht: Wenn der Timer abläuft oder du falsch antwortest wird dir 1 Punkt abgezogen.
+            Wenn du dir nicht sicher bist, kannst du auch den <mark style="background-color: darkgoldenrod; border-radius: 15px;">Hinweis-Button</mark> benutzen, wo dir ein Tipp angezeigt wird, doch sei damit vorsichtig.
+            Denn das Verwenden eines Hinweises kostet dich einen Punkt. Nach 15 Runden ist das Spiel beendet und wenn du 1 oder mehr
+            Punkte erreicht hast wirst du auf der Bestenliste verewigt und <span style="color: green;">gewinnst</span>. Wenn du 0 Punkte hast oder sogar in den Minusbereich
+            kommst, hast du leider <span style="color: red;">verloren</span> und darfst dein Glück noch einmal versuchen.
+            Zum vorzeitigen Verlassen des Spiels drücke bitte auf <mark style="background-color: red; color: silver;">Abbrechen</mark>.</p>
+
+            <br>
+
+            <p>Das andere Spiel ist das <mark style="background-color: darkgreen; color: silver; border-radius: 15px;">Map-Game</mark>. Es funktioniert genau so wie das Classic Game mit einer Ausnahme: Hier kannst du kein Land
+            eintragen, sondern du musst es auf einer Weltkarte finden und es anklicken.</p>
+
+            <br>
+
+            <p>Wenn du auf <mark style="background-color: lightskyblue; border-radius: 15px;">Bestenliste</mark> klickst, siehst du die Top-Ten der bisher gespielten Spiele, nach der Punkteanzahl gereiht.</p>
+
+            <br>
+
+            <p>Viel Spaß und viel Erfolg!</p>
+        
+
+        </div>
+    </div>
+
+    
+
+    <script src="start.js"></script>
+</body>
+
+</html>
